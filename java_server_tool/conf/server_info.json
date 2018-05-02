@@ -1,0 +1,13 @@
+{
+    "20-wanbu":{"hostname":"192.168.1.20","username":"wanbu","service_name":{"1":"WanbuDataServer_NEW","2":"WanbuDataServer_TC"}},
+    "11-wanbu":{"hostname":"192.168.1.11","username":"wanbu","service_name":{"1":"WanbuDataServer_NEW","2":"WanbuDataServer_TC"}},
+    "23-wanbu":{"hostname":"192.168.1.23","username":"wanbu","service_name":{"1":"WanbuDataServer_NEW"}},
+    "20-dascom":{"hostname":"192.168.1.20","username":"dascom","service_name":{"1":"IMTE","2":"NEW_WAE_phone","3":"phoneServer"}},
+    "11-dascom":{"hostname":"192.168.1.11","username":"dascom","service_name":{"1":"IMTE","2":"NEW_WAE_phone","3":"phoneServer"}},
+    "23-dascom":{"hostname":"192.168.1.23","username":"dascom","service_name":{"1":"dascom-java-socket-io-server","2":"JAVA_MODULE","3":"JinSaiWebService","4":"solr"}},
+    "23-https3":{"hostname":"192.168.1.23","username":"https3","service_name":{"1":"IMTE","2":"NEW_WAE_phone","3":"phoneServer"}},
+    "21-wanbu":{"hostname":"192.168.1.21","username":"wanbu","service_name":{"1":"NEW_WAE_phone"}},
+    "21-dascom":{"hostname":"192.168.1.21","username":"dascom","service_name":{"1":"IMTE","2":"NEW_WAE_phone","3":"phoneServer"}},
+    "22-dascom":{"hostname":"192.168.1.22","username":"dascom","service_name":{"1":"IMTE","2":"phoneServer"}},
+    "22-wanbu":{"hostname":"192.168.1.22","username":"wanbu","service_name":{"1":"NEW_WAE_phone"}}
+}
